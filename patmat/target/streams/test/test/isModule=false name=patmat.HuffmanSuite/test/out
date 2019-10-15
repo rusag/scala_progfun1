@@ -1,0 +1,22 @@
+[0m[[0minfo[0m] [0m[32mHuffmanSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- weight of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- chars of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
+[0m[[0minfo[0m] [0m[32m- Singleton for Nil[0m[0m
+[0m[[0minfo[0m] [0m[32m- Singleton for one element[0m[0m
+[0m[[0minfo[0m] [0m[32m- Singleton for two elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- Singleton for many elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- times for frequencies[0m[0m
+[0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode a longer text[0m[0m
+[0m[[0minfo[0m] [0m[32m- single encode a char[0m[0m
+[0m[[0minfo[0m] [0m[32m- encode a longer text[0m[0m
+[0m[[0minfo[0m] [0m[32m- encode with a bigger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a longer text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- codeBits char 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- codeBits char 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- codeBits Nil[0m[0m
+[0m[[0minfo[0m] [0m[32m- Convert short codetree t1[0m[0m
+[0m[[0minfo[0m] [0m[32m- Convert long codetree t1[0m[0m
